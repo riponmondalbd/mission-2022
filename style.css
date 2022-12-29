@@ -13,7 +13,7 @@ body{
 section{
     margin-left: 150px;
 }
-h1{
+.top-heading-border h1{
     font-size: 60px;
     font-family: 'Yeseva One',cursive;
 }
@@ -41,4 +41,33 @@ h1{
     background-color: #FF5959;
     padding: 8px 24px;
     border-radius: 5px;
+}
+.my-mession h1{
+    font-size: 48px;
+    text-align: center;
+    font-weight: 700;
+}
+.single-mession{
+    border-radius: 25px;
+    margin-left: 20px;
+    padding: 20px;
+    width: 25%;
+}
+.single-mession img{
+    width: 30%;
+}
+.single-mession h2{
+    font-size: 24px;
+}
+.single-mession p{
+    font-size: 16px;
+}
+.mission{
+    background-color: #4f9da642;
+}
+.vission{
+    background-color: #ff595959;
+}
+.goals{
+    background-color: #FFF4D6;
 }
